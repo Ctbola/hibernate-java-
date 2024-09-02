@@ -31,7 +31,7 @@ public class SaveUser extends HttpServlet {
         User user = new User();
     user.setId(2);
         user.setName("Lakindu1");
-        user.setMobile("0753720247.");
+        user.setMobile("0753720247..");
 
 
         //session.save(user);
